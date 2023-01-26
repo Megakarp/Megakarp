@@ -7,6 +7,7 @@
   - [Calculator](https://github.com/Megakarp/CSharp_Calculator)
 - <b>Java Projects</b>
   - [Java Final](https://github.com/Megakarp/JavaFinalExam)
+  - [Account Balance Calculation](https://github.com/Megakarp/Account-Balance-Calculation)
 - <b>Python Projects</b>
   - [Simple Python Guessing Game (Algorithms Demo)](https://github.com/Megakarp/SimplePythonGuessingGame)
 
