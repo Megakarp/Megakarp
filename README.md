@@ -7,6 +7,7 @@
 - <b>Java Projects</b>
 
 - <b>Python Projects</b>
+  - [Simple Python Guessing Game (Algorithms Demo)](https://github.com/Megakarp/SimplePythonGuessingGame)
 
 <!--
 **Megakarp/Megkarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
