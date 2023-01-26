@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>C# Projects(Mobile Apps)</b>
+- <b>C# Projects(Web Apps)</b>
 
 - <b>Java Projects</b>
 
