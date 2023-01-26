@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Zack! <br/><a href="https://github.com/Megakarp">Programmer</a>, <a href="https://www.linkedin.com/in/zachary-doubikin-845572125/">Software Developer</a>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>C# Projects(Mobile Apps)</b>
+
+- <b>Java Projects</b>
+
+- <b>Python Projects</b>
 
 <!--
-**Megakarp/Megakarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Megakarp/Megkarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
