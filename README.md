@@ -6,7 +6,7 @@
   - [Data manipulation](https://github.com/Megakarp/DataManipulation)
   - [Calculator](https://github.com/Megakarp/CSharp_Calculator)
 - <b>Java Projects</b>
-
+  - [Java Final](https://github.com/Megakarp/JavaFinalExam)
 - <b>Python Projects</b>
   - [Simple Python Guessing Game (Algorithms Demo)](https://github.com/Megakarp/SimplePythonGuessingGame)
 
