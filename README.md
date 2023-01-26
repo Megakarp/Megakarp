@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Mobile Apps</b>
+  - [PokeDex Tracker App](https://github.com/Megakarp/PokeDexTracker)
 - <b>C# Projects(Web Apps)</b>
   - [Data manipulation](https://github.com/Megakarp/DataManipulation)
   - [Calculator](https://github.com/Megakarp/CSharp_Calculator)
