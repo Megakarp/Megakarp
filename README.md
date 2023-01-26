@@ -4,6 +4,7 @@
 
 - <b>C# Projects(Web Apps)</b>
   - [Data manipulation](https://github.com/Megakarp/DataManipulation)
+  - [Calculator](https://github.com/Megakarp/CSharp_Calculator)
 - <b>Java Projects</b>
 
 - <b>Python Projects</b>
