@@ -7,6 +7,8 @@
 - <b>C# Projects(Web Apps)</b>
   - [Data manipulation](https://github.com/Megakarp/DataManipulation)
   - [Calculator](https://github.com/Megakarp/CSharp_Calculator)
+- <b>C Projects(Console Apps)</b>
+  - [Calculator](https://github.com/Megakarp/CSharp_Calculator)
 - <b>Java Projects</b>
   - [Java Final](https://github.com/Megakarp/JavaFinalExam)
   - [Account Balance Calculation](https://github.com/Megakarp/Account-Balance-Calculation)
