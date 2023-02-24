@@ -14,6 +14,7 @@
   - [Account Balance Calculation](https://github.com/Megakarp/Account-Balance-Calculation)
 - <b>Python Projects</b>
   - [Simple Python Guessing Game (Algorithms Demo)](https://github.com/Megakarp/SimplePythonGuessingGame)
+  - [Recipe Search with Edaman Api (Web App)](https://github.com/maliksaunders/CIS408_2023_01_Recipe_App)
 
 <!--
 **Megakarp/Megkarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
