@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zack! <br/><a href="https://github.com/Megakarp">Programmer</a>, <a href="https://www.linkedin.com/in/zachary-doubikin-845572125/">Software Developer</a>
+<h1>Hi, I'm Zack! <br/><a href="https://github.com/Megakarp">Programmer</a>, <a href="https://www.linkedin.com/in/zacharydoubikin/">Software Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
